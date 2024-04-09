@@ -16,24 +16,30 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviEspinosa&show_icons=true&theme=dracula)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEspinosa&layout=donut&icons=true&theme=dracula)](https://github.com/DaviEspinosa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviEspinosa&show_icons=true&theme=monokai)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEspinosa&layout=donut&icons=true&theme=monokai)](https://github.com/DaviEspinosa/github-readme-stats)
   
   
   <div style="display: inline_block">
-    <details open>
+    
+  <details open>
      <summary><h2>🏆 Conquistas Github</h2></summary>
       <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=epicestudar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+        <img src="https://github-profile-trophy.vercel.app/?username=DaviEspinosa&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
       </p>
     </details>
-    <details open>
+    
+  <details open>
       <summary> <h2>Estudos</h2></summary>
-      <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-      <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-      <img align="center" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img align="center" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    </details>       
+      <h3>Linguagens de Programação</h3>
+      <p>
+        <a href="https://github.com/DaviEspinosa"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=black"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      </p>
+    </details>   
+    
   </div>    
    <hr>
    <div align="center">
