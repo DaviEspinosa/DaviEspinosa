@@ -20,13 +20,21 @@ Here are some ideas to get you started:
   
   
   <div style="display: inline_block">
-            <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-           
-   </div>    
+    <details open>
+     <summary><h2>🏆 Conquistas Github</h2></summary>
+      <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=epicestudar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+      </p>
+    </details>
+    <details open>
+      <summary> <h2>Estudos</h2></summary>
+      <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+      <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+      <img align="center" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img align="center" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    </details>       
+  </div>    
    <hr>
    <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
