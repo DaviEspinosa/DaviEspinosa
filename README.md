@@ -33,10 +33,10 @@ Here are some ideas to get you started:
       <h3>Linguagens de Programação</h3>
       <p>
         <a href="https://github.com/DaviEspinosa"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-0d172f.svg?logo=javascript&logoColor=black"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="Java" src="https://img.shields.io/badge/Java-0d172f.svg?logo=openjdk&logoColor=black"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Java" src="https://img.shields.io/badge/Java-0d1a3b.svg?logo=openjdk&logoColor=black"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="PHP" src="https://img.shields.io/badge/PHP-122249.svg?logo=php&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Python" src="https://img.shields.io/badge/Python-1a2e5f.svg?logo=python&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-243a6f.svg?logo=database&logoColor=white"></a>
       </p>
     </details>   
     
