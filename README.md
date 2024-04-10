@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviEspinosa&show_icons=true&theme=chartreuse-dark)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEspinosa&layout=donut&icons=true&theme=chartreuse-dark)](https://github.com/DaviEspinosa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviEspinosa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEspinosa&layout=donut&icons=true&theme=chartreuse-dark)](https://github.com/DaviEspinosa/github-readme-stats)
   
   
   <div style="display: inline_block">
