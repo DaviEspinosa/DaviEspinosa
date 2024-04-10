@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviEspinosa&show_icons=true&theme=nightowl)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEspinosa&layout=donut&icons=true&theme=nightowl)](https://github.com/DaviEspinosa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviEspinosa&show_icons=true&theme=vision-friendly-dark)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEspinosa&layout=donut&icons=true&theme=vision-friendly-dark)](https://github.com/DaviEspinosa/github-readme-stats)
   
   
   <div style="display: inline_block">
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
       <summary> <h2>Estudos</h2></summary>
       <h3>Linguagens de Programação</h3>
       <p>
-        <a href="https://github.com/DaviEspinosa"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-0d172f.svg?logo=javascript&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="Java" src="https://img.shields.io/badge/Java-0d1a3b.svg?logo=openjdk&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="PHP" src="https://img.shields.io/badge/PHP-122249.svg?logo=php&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="Python" src="https://img.shields.io/badge/Python-1a2e5f.svg?logo=python&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="C" src="https://img.shields.io/badge/C-1a2e5f.svg?logo=c&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-243a6f.svg?logo=database&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Java" src="https://img.shields.io/badge/Java-02132d.svg?logo=openjdk&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-e3bd00.svg?logo=javascript&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Python" src="https://img.shields.io/badge/Python-02132d.svg?logo=python&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="PHP" src="https://img.shields.io/badge/PHP-e3bd00.svg?logo=php&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-02132d.svg?logo=database&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="C" src="https://img.shields.io/badge/C-e3bd00.svg?logo=c&logoColor=white"></a>
       </p>
     </details>   
     
