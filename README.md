@@ -1,7 +1,4 @@
 ### Prazer! Meu nome é Davi Pedrosa 👋
-
-
-
 <!--
 **DaviEspinosa/DaviEspinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <br>
+    
+  <p align="center">
+      <img src="https://github.com/DaviEspinosa/DaviEspinosa/blob/main/teste/mario.gif/" alt="Mario Game" width="70%">
+  </p>  
+  
+  <br>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEspinosa&layout=donut&icons=true&theme=chartreuse-dark)](https://github.com/DaviEspinosa/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviEspinosa&include_all_commits=true&theme=chartreuse-dark) 
@@ -42,10 +46,9 @@ Here are some ideas to get you started:
         <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-003B57.svg?logo=database&logoColor=white"></a>
         <a href="https://github.com/DaviEspinosa"><img alt="C" src="https://img.shields.io/badge/C-00FF00.svg?logo=c&logoColor=white"></a>
       </p>
-    </details>   
+    </details>  
     
-<img src="https://github.com/DaviEspinosa/DaviEspinosa/blob/main/teste/mario.gif" alt="Mario Game" width="100%"> <br> <br>
-
+    
   </div>    
    <hr>
    <div align="center">
