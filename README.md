@@ -1,5 +1,7 @@
 ### Prazer! Meu nome é Davi Pedrosa 👋
-<img src="https://github.com/DaviEspinosa/DaviEspinosa/teste/mario.gif" alt="Mario Game" width="100%" height="250"> <br> <br>
+
+<img src="https://github.com/DaviEspinosa/DaviEspinosa/blob/main/teste/mario.gif" alt="Mario Game" width="70%"> <br> <br>
+
 <!--
 **DaviEspinosa/DaviEspinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
