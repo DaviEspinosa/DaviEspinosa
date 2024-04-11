@@ -30,20 +30,43 @@ Here are some ideas to get you started:
     
   <details open>
       <summary> <h2>Estudos</h2></summary>
-      <h3>Linguagens de Programação</h3>
+      <h3>Linguagens de Programação e Marcação</h3>
       <p>
         <a href="https://github.com/DaviEspinosa"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&logoColor=white"></a>
         <a href="https://github.com/DaviEspinosa"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
         <a href="https://github.com/DaviEspinosa"><img alt="Python" src="https://img.shields.io/badge/Python-306998.svg?logo=python&logoColor=white"></a>
         <a href="https://github.com/DaviEspinosa"><img alt="PHP" src="https://img.shields.io/badge/PHP-4F5D95.svg?logo=php&logoColor=white"></a>
         <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-003B57.svg?logo=database&logoColor=white"></a>
         <a href="https://github.com/DaviEspinosa"><img alt="C" src="https://img.shields.io/badge/C-00FF00.svg?logo=c&logoColor=white"></a>
       </p>
-      <h3>Frameworks</h3>
-      <p>
-
-      </p>
     </details>   
+
+    ────────────────────────────────      O universo é o código  
+    ───────────────██████████───────      mais complexo já escrito,
+    ──────────────████████████──────      Jeová é o programador soberano que o desenvolveu...
+    ──────────────██────────██──────      ___________________________________________________
+    ──────────────██▄▄▄▄▄▄▄▄▄█──────      --
+    ──────────────██▀███─███▀█──────    --
+    █─────────────▀█────────█▀──────  --
+    ██──────────────────█───────────--
+    ─█──────────────██──────────────
+    █▄────────────████─██──████
+    ─▄███████████████──██──██████ ──
+    ────█████████████──██──█████████
+    ─────────────████──██─█████──███
+    ──────────────███──██─█████──███
+    ──────────────███─────█████████
+    ──────────────██─────████████▀
+    ────────────────██████████
+    ────────────────██████████
+    ─────────────────████████
+    ──────────────────██████████▄▄
+    ────────────────────█████████▀
+    ─────────────────────████──███
+    ────────────────────▄████▄──██
+    ────────────────────██████───▀
+    ────────────────────▀▄▄▄▄▀
     
   </div>    
    <hr>
