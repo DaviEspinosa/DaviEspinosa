@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEspinosa&layout=donut&icons=true&theme=chartreuse-dark)](https://github.com/DaviEspinosa/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviEspinosa&include_all_commits=true&theme=chartreuse-dark) 
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DaviEspinosa&include_all_commits=true&theme=chartreuse-dark&bg_color=0d1117"/>  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEspinosa&layout=donut&icons=true&theme=chartreuse-dark&bg_color=0d1117"/>
 
   
   <div style="display: inline_block">
