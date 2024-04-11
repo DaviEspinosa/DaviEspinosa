@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <details open>
      <summary><h2>🏆 Conquistas Github</h2></summary>
       <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=DaviEspinosa&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+     <img src="https://github-profile-trophy.vercel.app/?username=DaviEspinosa&theme=nord&row=2&bg=true&column=3&margin-w=15&margin-h=15" />
       </p>
     </details>
     
@@ -32,12 +32,16 @@ Here are some ideas to get you started:
       <summary> <h2>Estudos</h2></summary>
       <h3>Linguagens de Programação</h3>
       <p>
-        <a href="https://github.com/DaviEspinosa"><img alt="Java" src="https://img.shields.io/badge/Java-02132d.svg?logo=openjdk&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-e3bd00.svg?logo=javascript&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="Python" src="https://img.shields.io/badge/Python-02132d.svg?logo=python&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="PHP" src="https://img.shields.io/badge/PHP-e3bd00.svg?logo=php&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-02132d.svg?logo=database&logoColor=white"></a>
-        <a href="https://github.com/DaviEspinosa"><img alt="C" src="https://img.shields.io/badge/C-e3bd00.svg?logo=c&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="Python" src="https://img.shields.io/badge/Python-306998.svg?logo=python&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="PHP" src="https://img.shields.io/badge/PHP-4F5D95.svg?logo=php&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-003B57.svg?logo=database&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="C" src="https://img.shields.io/badge/C-00FF00.svg?logo=c&logoColor=white"></a>
+      </p>
+      <h3>Frameworks</h3>
+      <p>
+
       </p>
     </details>   
     
