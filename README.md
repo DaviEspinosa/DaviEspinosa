@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <br>
     
   <p align="center">
-      <img src="https://github.com/DaviEspinosa/DaviEspinosa/blob/main/teste/mario.gif/" alt="Mario Game" width="70%">
+      <img src="https://github.com/DaviEspinosa/DaviEspinosa/blob/main/teste/mario.gif/" alt="Mario Game" width="100%" height="350px">
   </p>  
   
   <br>
