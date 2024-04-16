@@ -45,6 +45,7 @@ Here are some ideas to get you started:
         <a href="https://github.com/DaviEspinosa"><img alt="PHP" src="https://img.shields.io/badge/PHP-4F5D95.svg?logo=php&logoColor=white"></a>
         <a href="https://github.com/DaviEspinosa"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-003B57.svg?logo=database&logoColor=white"></a>
         <a href="https://github.com/DaviEspinosa"><img alt="C" src="https://img.shields.io/badge/C-00FF00.svg?logo=c&logoColor=white"></a>
+        <a href="https://github.com/DaviEspinosa"><img alt="C" src="https://img.shields.io/badge/CSS-264de4.svg?logo=css3&logoColor=white"></a>
       </p>
     </details>  
     
